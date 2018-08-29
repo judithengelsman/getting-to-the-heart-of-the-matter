@@ -1,0 +1,2 @@
+# getting-to-the-heart-of-the-matter
+to get an insight into the world of software development and have more indept interviews with our candidates I decided to make an account on Github. One of my collegues, an awesome tester who is learning on the job about Java and C development explained "how Github works". Recruitment driven by interesting assignments starts with getting to know interesting projects and people, hope to meet plenty of them in this place
